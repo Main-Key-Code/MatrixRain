@@ -1,0 +1,16 @@
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.exe
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.deps.json
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.json
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.dev.json
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.dll
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\ref\MatrixRain.dll
+C:\Private_Key-Code\Test_Code\MatrixRain\bin\Debug\net5.0\MatrixRain.pdb
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.AssemblyReference.cache
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfoInputs.cache
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfo.cs
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.dll
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\ref\MatrixRain.dll
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.pdb
+C:\Private_Key-Code\Test_Code\MatrixRain\obj\Debug\net5.0\MatrixRain.genruntimeconfig.cache
